@@ -6,7 +6,7 @@
 
 A modern, feature-rich productivity dashboard designed for focus, discipline, and continuous learning. Built with vanilla JavaScript, CSS3, and a single HTML file.
 
-[Live Demo](#-live-demo) • [Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Customization](#-customization)
+[Live Demo](https://affan675.github.io/04_polymath_dashboard/) • [Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Customization](#-customization)
 
 </div>
 
@@ -333,10 +333,8 @@ You're free to use, modify, and distribute this project for personal and commerc
 
 **Affan** – Building tools for better productivity and continuous learning.
 
-- 🔗 [GitHub](https://github.com/your-username)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 🔗 [GitHub](https://github.com/affan675)
+- 🌐 [Portfolio](https://affan675.github.io/01_portfolio_v2/)
 
 ---
 
@@ -356,48 +354,3 @@ If you find this project helpful, please consider:
 ### Made with ❤️ for productivity & personal growth
 
 **[⬆ Back to Top](#-polymath-dashboard)**
-
-</div>
-polymath_habits_date	Last saved date (used for daily reset)
-polymath_notes	Raw text from the notes area
-polymath_theme	"light" or "dark"
-Note: Clearing browser storage will reset all data.
-
-☁️ Deployment to GitHub Pages
-Push your code to a GitHub repository.
-
-Go to the repository Settings → Pages (left sidebar).
-
-Under Branch, select main (or master) and the / (root) folder.
-
-Click Save.
-
-After a few minutes, your dashboard will be live at:
-https://your-username.github.io/polymath-dashboard/
-
-✅ Because the dashboard is a single index.html, no extra configuration is needed.
-
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page.
-
-Fork the project
-
-Create your feature branch (git checkout -b feature/amazing)
-
-Commit your changes (git commit -m 'Add some amazing feature')
-
-Push to the branch (git push origin feature/amazing)
-
-Open a Pull Request
-
-📄 License
-Distributed under the MIT License. See LICENSE file for more information (you can add a simple MIT license file if desired).
-
-🙏 Acknowledgements
-Inspired by the polymath spirit of Leonardo da Vinci and modern productivity systems.
-
-Built with vanilla web technologies – no frameworks, just focus.
-
-Made with ☕ and 🧠 by Affan
-Keep learning, keep building.
